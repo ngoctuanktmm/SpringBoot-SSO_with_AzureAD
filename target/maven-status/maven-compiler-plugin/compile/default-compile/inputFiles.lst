@@ -1,0 +1,11 @@
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/BasicConfiguration.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/HttpClientHelper.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/AuthFilter.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/StateData.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/AuthHelper.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/SecurityConfig.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/MsalWebSampleApplication.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/SessionManagementHelper.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/ErrorHandlerController.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/ServletInitializer.java
+/Users/tuan.tn1/Documents/Training/DoAn/ms-identity-java-webapp/SSO_with_AzureAD/src/main/java/com/actvn/AuthPageController.java

@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: tuan.tn1
+Build-Jdk: 15.0.1
+Implementation-Title: msal-web-sample
+Implementation-Version: 0.1.0
+Implementation-Vendor-Id: com.microsoft.azure
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/msal-web-sample
+Created-By: Maven Integration for Eclipse
+

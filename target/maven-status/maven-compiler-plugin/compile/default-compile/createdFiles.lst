@@ -1,0 +1,10 @@
+com/actvn/AuthFilter.class
+com/actvn/AuthHelper.class
+com/actvn/SessionManagementHelper.class
+com/actvn/MsalWebSampleApplication.class
+com/actvn/AuthPageController.class
+com/actvn/SecurityConfig.class
+com/actvn/HttpClientHelper.class
+com/actvn/StateData.class
+com/actvn/ErrorHandlerController.class
+com/actvn/BasicConfiguration.class
